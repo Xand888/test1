@@ -21,7 +21,7 @@ console.log('Infinity / -Infinity = ' + unknown);
 const eps = Number.EPSILON;
 console.log('Number.EPSILON = ' + eps);
 
-console.log('');
+console.log(' ');
 
 const a = 0.1,
     b = 0.2,
